@@ -6,7 +6,7 @@ var prefix = "@";
 var found = true;
 
 client.connect({
-	token: "MjY0OTM1OTg0ODU0OTkwODQ5.C0rkSg.-ZaCg1qWKDD8VXCscPN6rF2L3V0"
+	token: "NUTHIN TO SEE HERE"
 });
 
 // USE // FOR COMMENTS
